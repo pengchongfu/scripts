@@ -5,4 +5,9 @@
 * wxChatroom.py: 从微信数据库中导出群消息
 * pixivSearch.py: 搜索p站收藏数大于特定值的图片
 * pixivSearch.js: pixivSearch.py的js版本
-* thuxk.py: 清华大学选课登录脚本（只有登录功能）
+* thuXk.py: 清华大学选课登录脚本（只有登录功能）
+* thuLog.js: 清华大学网络登录脚本
+* thuLog.py: thuLog.js的python版
+* skyworksIndex.js media.thu-skyworks.org主页提交脚本
+* skyworksForm.js media.thu-skyworks.org后台提交脚本
+* bulk_upload.sh media.thu-skyworks.org多视频提交脚本
