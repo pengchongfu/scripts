@@ -11,3 +11,4 @@
 * skyworksIndex.js media.thu-skyworks.org主页提交脚本
 * skyworksForm.js media.thu-skyworks.org后台提交脚本
 * bulk_upload.sh media.thu-skyworks.org多视频提交脚本
+* shadowsocks: Dockerfile 文件，需要[开启 dockerd 的 ipv6 选项](https://docs.docker.com/engine/userguide/networking/default_network/ipv6/)
